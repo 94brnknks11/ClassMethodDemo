@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\ClassMethodDemo\CustomerService\bin\Debug\net5.0\CustomerService.exe
+C:\Users\user\Desktop\ClassMethodDemo\CustomerService\bin\Debug\net5.0\CustomerService.deps.json
+C:\Users\user\Desktop\ClassMethodDemo\CustomerService\bin\Debug\net5.0\CustomerService.runtimeconfig.json
+C:\Users\user\Desktop\ClassMethodDemo\CustomerService\bin\Debug\net5.0\CustomerService.runtimeconfig.dev.json
+C:\Users\user\Desktop\ClassMethodDemo\CustomerService\bin\Debug\net5.0\CustomerService.dll
+C:\Users\user\Desktop\ClassMethodDemo\CustomerService\bin\Debug\net5.0\ref\CustomerService.dll
+C:\Users\user\Desktop\ClassMethodDemo\CustomerService\bin\Debug\net5.0\CustomerService.pdb
+C:\Users\user\Desktop\ClassMethodDemo\CustomerService\obj\Debug\net5.0\CustomerService.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ClassMethodDemo\CustomerService\obj\Debug\net5.0\CustomerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ClassMethodDemo\CustomerService\obj\Debug\net5.0\CustomerService.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ClassMethodDemo\CustomerService\obj\Debug\net5.0\CustomerService.AssemblyInfo.cs
+C:\Users\user\Desktop\ClassMethodDemo\CustomerService\obj\Debug\net5.0\CustomerService.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ClassMethodDemo\CustomerService\obj\Debug\net5.0\CustomerService.dll
+C:\Users\user\Desktop\ClassMethodDemo\CustomerService\obj\Debug\net5.0\ref\CustomerService.dll
+C:\Users\user\Desktop\ClassMethodDemo\CustomerService\obj\Debug\net5.0\CustomerService.pdb
+C:\Users\user\Desktop\ClassMethodDemo\CustomerService\obj\Debug\net5.0\CustomerService.genruntimeconfig.cache
